@@ -20,7 +20,7 @@
 
 -   리액트 설치
 -   Props 활용해 Component에 Data 전달
-    ex. props로 값을 받아 사람의 나이 표기
+    -   props로 값을 받아 사람의 나이 표기
 -   Component 분리
 -
 
