@@ -1,4 +1,6 @@
-## KISA 핀테크 아카데미
+## [KISA](https://www.kisa.or.kr/) 핀테크 아카데미
+
+!(https://www.kisa.or.kr/resource/kor/images/sub/logo_IC_top_1.png)
 
 ### 핀테크 서비스 개발
 
@@ -22,7 +24,6 @@
 -   Props 활용해 Component에 Data 전달
     -   props로 값을 받아 사람의 나이 표기
 -   Component 분리
--
 
 ## 3일차 - 05.24(수)
 
