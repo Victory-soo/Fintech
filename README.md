@@ -1,6 +1,6 @@
 ## [KISA](https://www.kisa.or.kr/) 핀테크 아카데미
 
-!(https://www.kisa.or.kr/resource/kor/images/sub/logo_IC_top_1.png)
+![KISA 로고](https://www.kisa.or.kr/resource/kor/images/sub/logo_IC_top_1.png)
 
 ### 핀테크 서비스 개발
 
